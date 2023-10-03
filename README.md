@@ -28,5 +28,7 @@ To run this project in your local environment, fork this repository then enter t
 ```
 
 
-
+ <div style="width:60px ; height:60px">
+![IMG_6177](https://github.com/Sanagubari/react_native_jobs/assets/107521461/0d0e8f23-6d56-457e-9192-30c12e41ceab)
+ </div>
 
