@@ -28,7 +28,7 @@ To run this project in your local environment, fork this repository then enter t
 ```
 
 ## Screenhots of APP:
-<div style="width:10px ; height:10px">
+<div style="width:40px ; height:40px">
 ![IMG_6178](https://github.com/Sanagubari/react_native_jobs/assets/107521461/3f40dea0-7044-4a4b-b2d1-f7a400f5b28a)
  <div>
 ![IMG_6177](https://github.com/Sanagubari/react_native_jobs/assets/107521461/0d0e8f23-6d56-457e-9192-30c12e41ceab)
