@@ -29,9 +29,10 @@ To run this project in your local environment, fork this repository then enter t
 ```
 
 ## Screenshots of App:
-
-<img src="/assets/images/IMG_6173.PNG" height="160" width="90" >
-<img src="/assets/images/IMG_6174.PNG" height="160" width="90" >
-<img src="/assets/images/IMG_6176.PNG" height="160" width="90" >
-<img src="/assets/images/IMG_6177.PNG" height="160" width="90" >
-<img src="/assets/images/IMG_6178.PNG" height="160" width="90" >
+<div style="display: flex; flex-direction: row;">
+<img src="/assets/images/IMG_6173.PNG" height="320" width="180" >
+<img src="/assets/images/IMG_6174.PNG" height="320" width="180" >
+<img src="/assets/images/IMG_6176.PNG" height="320" width="180" >
+<img src="/assets/images/IMG_6177.PNG" height="320" width="180" >
+<img src="/assets/images/IMG_6178.PNG" height="320" width="180" >
+</div>
