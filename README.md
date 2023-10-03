@@ -6,17 +6,18 @@ React Native jobs, is an App that consists of Job listings where job hunters can
 
 Android:
 If you have an Android device, open this link on your device:
-exp://u.expo.dev/update/71319194-fc87-42a9-9d23-8c1276f932c0 
+exp://u.expo.dev/update/71319194-fc87-42a9-9d23-8c1276f932c0
 to open it in Expo Go or a development build.
 
 IOS:
 Alternativley if you have an IOS device, open this link on your device:
-exp://u.expo.dev/update/fbe5703c-eb51-4614-8029-a466b4893a63 
+exp://u.expo.dev/update/fbe5703c-eb51-4614-8029-a466b4893a63
 to open it in Expo Go or a development build.
 
 ## Running Project Locally:
 
 To run this project in your local environment, fork this repository then enter the following commands in your terminal:
+
 ```
  1. cd <chosen folder>
  2. git clone <repo-url>
@@ -27,5 +28,10 @@ To run this project in your local environment, fork this repository then enter t
  7. Scan QR code in terminal using your phone camera or Expo Go app.
 ```
 
+## Screenshots of App:
 
-
+<img src="/assets/images/IMG_6173.PNG" height="60" width="60" >
+<img src="/assets/images/IMG_6174.PNG" height="60" width="60" >
+<img src="/assets/images/IMG_6176.PNG" height="60" width="60" >
+<img src="/assets/images/IMG_6177.PNG" height="60" width="60" >
+<img src="/assets/images/IMG_6178.PNG" height="60" width="60" >
