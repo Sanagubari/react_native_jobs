@@ -5,26 +5,23 @@ React Native jobs, is an App that consists of Job listings where job hunters can
 ## Preview App:
 
 Android:
-If you have an Android device, copy and paste this link on your device:
+If you have an Android device, open this link on your device:
 exp://u.expo.dev/update/71319194-fc87-42a9-9d23-8c1276f932c0 
 to open it in Expo Go or a development build.
 
 IOS:
-Alternativley if you have an IOS device, copy and paste this link on your device:
+Alternativley if you have an IOS device, open this link on your device:
 exp://u.expo.dev/update/fbe5703c-eb51-4614-8029-a466b4893a63 
 to open it in Expo Go or a development build.
 
-# Expo Router Example
+# Running Project Locally:
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+To run this project in your local environment, fork this repository then enter the following commands in your terminal:
 
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+ 1. cd <chosen folder>
+ 2. git clone <repo-url>
+ 3. cd react_native_jobs
+ 4. npm install
+ 5. expo-cli start --tunnel
+ 6. Download Exp Go App of App store
+ 7. Scan QR code in terminal using your phone camera or Expo Go app.
