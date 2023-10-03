@@ -30,8 +30,8 @@ To run this project in your local environment, fork this repository then enter t
 
 ## Screenshots of App:
 
-<img src="/assets/images/IMG_6173.PNG" height="60" width="60" >
-<img src="/assets/images/IMG_6174.PNG" height="60" width="60" >
-<img src="/assets/images/IMG_6176.PNG" height="60" width="60" >
-<img src="/assets/images/IMG_6177.PNG" height="60" width="60" >
-<img src="/assets/images/IMG_6178.PNG" height="60" width="60" >
+<img src="/assets/images/IMG_6173.PNG" height="160" width="90" >
+<img src="/assets/images/IMG_6174.PNG" height="160" width="90" >
+<img src="/assets/images/IMG_6176.PNG" height="160" width="90" >
+<img src="/assets/images/IMG_6177.PNG" height="160" width="90" >
+<img src="/assets/images/IMG_6178.PNG" height="160" width="90" >
