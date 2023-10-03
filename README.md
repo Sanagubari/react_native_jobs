@@ -2,6 +2,14 @@
 
 React Native jobs, is an App that consists of Job listings where job hunters can serach for jobs.The jobs are split up into categories of full time, part time, and contractor jobs, aswell as the option to filter through the jobs by search. The UI of the individual job listings is organised into 3 subsections of About, Qualifications and Responsibilites to allow the user to filter through the information and digest it easily. It also includes a button at the bottom of the page which directs the user to the job listing on the internet so that they can apply to the job if they wish to do so.
 
+## Screenshots of App:
+<div style="display: flex; flex-direction: row;">
+<img src="/assets/images/IMG_6173.PNG" height="350" width="180" >
+<img src="/assets/images/IMG_6174.PNG" height="350" width="180" >
+<img src="/assets/images/IMG_6176.PNG" height="350" width="180" >
+<img src="/assets/images/IMG_6177.PNG" height="350" width="180" >
+<img src="/assets/images/IMG_6178.PNG" height="350" width="180" >
+</div>
 ## Preview App:
 
 Android:
@@ -27,11 +35,4 @@ To run this project in your local environment, fork this repository then enter t
 ```
  Then download the 'Expo Go' App on App store. Once installed, scan the QR code shown in the terminal using your phone camera or Expo Go app.
 
-## Screenshots of App:
-<div style="display: flex; flex-direction: row;">
-<img src="/assets/images/IMG_6173.PNG" height="350" width="180" >
-<img src="/assets/images/IMG_6174.PNG" height="350" width="180" >
-<img src="/assets/images/IMG_6176.PNG" height="350" width="180" >
-<img src="/assets/images/IMG_6177.PNG" height="350" width="180" >
-<img src="/assets/images/IMG_6178.PNG" height="350" width="180" >
-</div>
+
