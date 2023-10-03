@@ -5,10 +5,10 @@ React Native jobs, is an App that consists of Job listings where job hunters can
 ## Preview App:
 
 Android:
-If you have an Android device, click the [`here`](exp://u.expo.dev/update/71319194-fc87-42a9-9d23-8c1276f932c0) to open it in Expo Go or a development build.
+If you have an Android device, click the [here](exp://u.expo.dev/update/71319194-fc87-42a9-9d23-8c1276f932c0) to open it in Expo Go or a development build.
 
 IOS:
-Alternativley if you have an IOS device, click the [`here`](exp://u.expo.dev/update/fbe5703c-eb51-4614-8029-a466b4893a63) to open it in Expo Go or a development build.
+Alternativley if you have an IOS device, click the [here](exp://u.expo.dev/update/fbe5703c-eb51-4614-8029-a466b4893a63) to open it in Expo Go or a development build.
 
 # Expo Router Example
 
