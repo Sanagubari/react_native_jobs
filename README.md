@@ -24,9 +24,8 @@ To run this project in your local environment, fork this repository then enter t
  3. cd react_native_jobs
  4. npm install
  5. expo-cli start --tunnel
- 6. Download Expo Go App of App store
- 7. Scan QR code in terminal using your phone camera or Expo Go app.
 ```
+ Then download the 'Expo Go' App on App store. Once installed, scan the QR code shown in the terminal using your phone camera or Expo Go app.
 
 ## Screenshots of App:
 <div style="display: flex; flex-direction: row;">
