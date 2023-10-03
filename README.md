@@ -10,6 +10,7 @@ React Native jobs, is an App that consists of Job listings where job hunters can
 <img src="/assets/images/IMG_6177.PNG" height="350" width="180" >
 <img src="/assets/images/IMG_6178.PNG" height="350" width="180" >
 </div>
+
 ## Preview App:
 
 Android:
