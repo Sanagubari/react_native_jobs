@@ -27,6 +27,7 @@ const tabs = ["About", "Qualifications", "Responsibilities"];
 const JobDetails = () => {
   const params = useLocalSearchParams();
   const router = useRouter();
+
   const [refreshing, setRefreshing] = useState(false);
   const [activeTab, setActiveTab] = useState(tabs[0]);
 
@@ -34,7 +35,12 @@ const JobDetails = () => {
     job_id: params.id,
   });
 
-  const onRefresh = () => {};
+  const onRefresh = useCallback(() => {
+    setRefreshing(true);
+    refetch();
+    setRefreshing(false);
+  }, []);
+
   const displayTabContent = () => {
     switch (activeTab) {
       case "Qualifications":

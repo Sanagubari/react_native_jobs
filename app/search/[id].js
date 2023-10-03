@@ -14,10 +14,12 @@ import { ScreenHeaderBtn, NearbyJobCard } from "../../components";
 import { COLORS, icons, SIZES } from "../../constants";
 import styles from "../../styles/search";
 
-const apiKey = process.env.API_KEY;
+
+
 const JobSearch = () => {
   const params = useLocalSearchParams();
   const router = useRouter();
+
 
   const [searchResult, setSearchResult] = useState([]);
   const [searchLoader, setSearchLoader] = useState(false);
@@ -33,7 +35,7 @@ const JobSearch = () => {
         method: "GET",
         url: `https://jsearch.p.rapidapi.com/search`,
         headers: {
-          "X-RapidAPI-Key": apiKey,
+          "X-RapidAPI-Key":"3a31353f5cmsh860c69d5529639ap123fefjsncef47f56e185" ,
           "X-RapidAPI-Host": "jsearch.p.rapidapi.com",
         },
         params: {

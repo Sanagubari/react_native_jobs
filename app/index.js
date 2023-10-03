@@ -1,3 +1,6 @@
+// console.log('<<<<<<<<<<<<<<<<<<<Before dotenv');
+// require('dotenv').config();
+// console.log('After dotenv');
 import { useState } from "react";
 import { View, ScrollView, SafeAreaView } from "react-native";
 import { Stack, useRouter } from "expo-router";
@@ -14,8 +17,11 @@ import {
 const Home = () => {
   const router = useRouter();
   const [searchTerm, setSearchTerm] = useState("");
+  const rapidApiKey = process.env.RAPIDAPI_KEY;
+
 
   return (
+    
     <SafeAreaView style={{ flex: 1, backgroundColor: COLORS.lightWhite }}>
       <Stack.Screen
         options={{
@@ -46,6 +52,7 @@ const Home = () => {
               }
             }}
           />
+          
 
           <Popularjobs />
 
